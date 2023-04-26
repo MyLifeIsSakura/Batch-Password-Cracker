@@ -13,4 +13,4 @@ its pretty simple, just type in all zeros (0) and see how much it lets you type:
 
 Fourth file, custom_length.txt:
 
-this file is in txt format but still contains cracking code, you see when you run one of there it cuases lag depending on what maximuim passcode length is in the script, custom_length.txt has
+just open it and it will explain itself inside:3
