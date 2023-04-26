@@ -13,4 +13,4 @@ its pretty simple, just type in all zeros (0) and see how much it lets you type:
 
 Fourth file, custom_length.txt:
 
-just open it and it will explain itself inside:3
+just open it and it will explain itself inside:3 (that is the re ommended one to use)
