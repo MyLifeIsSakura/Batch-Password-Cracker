@@ -33,3 +33,5 @@ echo Password brute-forcing complete.
 
 REM Delete the passwords_to_try.txt file
 del passwords_to_try.txt
+
+pause
