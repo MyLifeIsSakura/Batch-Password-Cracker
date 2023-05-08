@@ -17,7 +17,7 @@ it says "set MAXLEN=16" and replace
 password (or you victims password)
 and then this will be perfect for you!
 (set the value to 1000 if you wanna 
-crash you pc forever:\)
+crash you pc:\)
 
 how to set up:
 after you've set the max length value
@@ -64,3 +64,5 @@ echo Password brute-forcing complete.
 
 REM Delete the passwords_to_try.txt file
 del passwords_to_try.txt
+
+pause
